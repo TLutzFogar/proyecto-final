@@ -1,0 +1,10 @@
+/*Llamar una etiqueta */
+body{background-color: lightblue;}
+/*Llamar a una clase */
+.titular{
+    color:red;
+    font-size: 20px;}
+.titular2{
+    color: red;
+    font-size: 20px;
+}
